@@ -1,8 +1,0 @@
-# Ruby on Rails App
-
-[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/badges/built-by-developers.svg)](http://forthebadge.com)
-
-This is simple user management based application using AngularJS.
-
-Created by: [Aruj Parajuli](http://twitter.com/aruzmeister)
